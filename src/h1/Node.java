@@ -8,12 +8,11 @@ public class Node {
         this.next = next;
     }
 
-    // Getter → KEINE Parameter
+
     public Node getNext() {
         return next;
     }
 
-    // Setter → EIN Parameter
     public void setNext(Node next) {
         this.next = next;
     }
